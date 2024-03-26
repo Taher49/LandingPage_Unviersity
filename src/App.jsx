@@ -3,6 +3,7 @@ import './App.css'
 
 import Navbar from "./Components/navbar";
 import Hero from "./Components/Hero";
+import Card from './Components/card';
 import Cards from "./Components/cards";
 import About from './Components/About';
 import Next from './Components/Next';
